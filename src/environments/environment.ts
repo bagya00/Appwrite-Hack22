@@ -1,0 +1,14 @@
+
+export const environment = {
+  production: false,
+  APP_ENDPOINT: "http://localhost/v1",
+  APP_PROJECT: "6176d7bc851e0",
+
+  APP_DOC_PROD_COLID:"61770170e9732",
+  APP_DOC_CAT_COLID:"61770251bc7e6",
+  APP_DOC_LIST_COLID:"61770169c336b",
+  APP_DOC_LIPR_COLID:"617702b13c897",
+
+  APP_PROJ_COLLECTION_ID:"6176d7bc851e0"
+};
+
